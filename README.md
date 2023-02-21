@@ -5,7 +5,7 @@
 typedef struct{
   char *name;
   char *email;
-  char *linkedin
+  char *linkedin;
   char *studies;
 
 }dev;
@@ -13,14 +13,12 @@ typedef struct{
 int LeonardoMachado(dev *my){
   my->name = "Leonardo Goncalves Machado";
   my->email = "leonardogm2003@gmail.com";
-  my->linkedin = "linkedin.com/in/leonardo-gonçalves-machado-a8a599249"  
+  my->linkedin = "linkedin.com/in/leonardo-gonçalves-machado-a8a599249"; 
   my->studies = "programming and mathematics";
     
     
-};
+}
 ```
-
-[![Leonardo G.M. GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardogonmac)](https://github.com/leonardogonmac/github-readme-stats)
 
 ## 🛠️ Languages:
 
@@ -36,8 +34,15 @@ int LeonardoMachado(dev *my){
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/leonardogonmac">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leonardogonmac&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogonmac&layout=compact&hide=html,tcl,shell"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogonmac&hide=html,tcl,shell&layout=compact)](https://github.com/leonardogonmac/github-readme-stats)
+ <div align="left">
 
-
+<img align="right" alt="Ana-pic" height="200" width="200" style="border-radius:50px;" src="https://thumbs.gfycat.com/HappyThankfulCrayfish-size_restricted.gif">
+  
+### return 0;
 ### }
