@@ -10,7 +10,7 @@ typedef struct{
 
 }dev;
 
-int LeonardoMachado(dev *my){
+void LeonardoMachado(dev *my){
   my->name = "Leonardo Goncalves Machado";
   my->email = "leonardogm2003@gmail.com";
   my->linkedin = "linkedin.com/in/leonardo-gonçalves-machado-a8a599249"; 
