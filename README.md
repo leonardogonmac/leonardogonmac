@@ -40,9 +40,13 @@ int LeonardoMachado(dev *my){
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogonmac&layout=compact&hide=html,tcl,shell"/>
 </div>
 
- <div align="left">
-
-<img align="right" alt="Ana-pic" height="200" width="200" style="border-radius:50px;" src="https://thumbs.gfycat.com/HappyThankfulCrayfish-size_restricted.gif">
+## Random info: 
+  - If you solve the mystery behind the function bellow, you are a legend.
+  
+<div align="left">
+<img height="200" width="350" style="border-radius:50px;" src="https://github.com/leonardogonmac/leonardogonmac/blob/main/zetagif.gif">
+</div> 
+  
   
 ### return 0;
 ### }
