@@ -36,7 +36,7 @@ void LeonardoMachado(dev *my){
 
 <div align="center">
   <a href="https://github.com/leonardogonmac">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leonardogonmac&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leonardogonmac&show_icons=true&include_all_commits=true&"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogonmac&layout=compact&hide=html,tcl,shell"/>
 </div>
 
