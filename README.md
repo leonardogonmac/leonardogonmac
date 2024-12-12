@@ -2,7 +2,7 @@
 ### int main(){
 
 ```c
-typedef struct{
+typedef struct dev{
   char *name;
   char *email;
   char *linkedin;
