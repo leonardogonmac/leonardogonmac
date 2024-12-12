@@ -1,21 +1,20 @@
 ### #include <hello.h>
 ### int main(){
 
-```c
+```c++
 typedef struct dev{
-  char *name;
-  char *email;
-  char *linkedin;
-  char *studies;
+  string name;
+  string email;
+  string linkedin;
+  string studies;
 
 }dev;
 
-void LeonardoMachado(dev *my){
-  my->name = "Leonardo Goncalves Machado";
-  my->email = "leonardogm2003@gmail.com";
-  my->linkedin = "linkedin.com/in/leonardo-gonçalves-machado-a8a599249"; 
-  my->studies = "programming and mathematics";
-    
+void LeonardoMachado(dev& my){
+  my.name = "Leonardo Goncalves Machado";
+  my.email = "leonardogm2003@gmail.com";
+  my.linkedin = "linkedin.com/in/leonardo-gonçalves-machado-a8a599249"; 
+  my.studies = "programming and mathematics";
     
 }
 ```
